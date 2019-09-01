@@ -1,8 +1,2 @@
-Project name     : My Webkart
-Front End        : Django,HTML5,JavaScript,Bootsrap,CSS,Jquery
-Framework        : Django Framework
-Server language  : Django server
-Backend          :Django,Sqlite3
-Project code     : wt103
-Video demo link  :https://www.youtube.com/watch?v=iLIrRkpJfDs
-Source code      : email me -> aryadrj@gmail.com
+Welcome to Django project!
+My name is Arya, in this file you will get all list of django project
